@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @yur4ik1
+- 👋 Hi, I'm Yurii
 - 👀 I'm interested in web development
 - 🌱 I'm currently learning react development
 - 💞️ I invite you to cooperate
