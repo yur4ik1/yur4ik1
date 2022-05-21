@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yur4ik1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm @yur4ik1
+- 👀 I'm interested in web development
+- 🌱 I'm currently learning react development
+- 💞️ I invite you to cooperate
+- 📫 My telegram - https://t.me/yur4ik_69
 
 <!---
 yur4ik1/yur4ik1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
