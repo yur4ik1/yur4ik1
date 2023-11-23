@@ -1,7 +1,3 @@
-- 👋 Hi, I'm Yurii
-- 👀 I'm interested in web development
-- 🌱 I'm currently learning react development
-- 💞️ I invite you to cooperate
 - 📫 My telegram - https://t.me/yur4ik_69
 
 <!---
