@@ -1,3 +1,4 @@
+```console
 ~ $ whoami
 Yurii Kachan - full-stack developer from Kyiv, Ukraine
 
@@ -14,3 +15,6 @@ I also design interfaces in Figma.
 
 ~ $ ls ~/repos
 mostly private - the green squares below are real work
+```
+
+[LinkedIn](https://www.linkedin.com/in/yuriikachan/) · [Telegram](https://t.me/yur4ik_69) · yuriiklevets@gmail.com
