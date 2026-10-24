@@ -1,16 +1,16 @@
-## Hi there 👋
+~ $ whoami
+Yurii Kachan - full-stack developer from Kyiv, Ukraine
 
-<!--
-**yur4ik1/yur4ik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+~ $ uptime
+6 years building web products, starting before AI wrote code
 
-Here are some ideas to get you started:
+~ $ cat stack.txt
+React · Next.js · TypeScript · Node.js · PostgreSQL · Tailwind · Storyblok · Chrome Extensions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~ $ cat how-i-work.txt
+I own products end to end - from architecture to production.
+I work with AI agents (Claude Code, MCP) every day, with tests and CI behind them.
+I also design interfaces in Figma.
+
+~ $ ls ~/repos
+mostly private - the green squares below are real work
